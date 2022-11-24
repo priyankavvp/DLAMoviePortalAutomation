@@ -146,6 +146,5 @@ public class LoginPage extends TestBase{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	
 	}
 }

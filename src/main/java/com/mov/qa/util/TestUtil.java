@@ -99,5 +99,4 @@ public class TestUtil extends TestBase {
 //		js.executeScript("$.growl.warning({ title: 'Warning!', message: 'your warning message goes here' });");
 		Thread.sleep(5000);
 	}
-
 }
